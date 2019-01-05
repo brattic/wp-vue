@@ -2,10 +2,7 @@
   <div>
 
     <section>
-      <!--<p>-->
-        <!--WP Vue is a simple template built with Vue JS that displays posts from a WordPress REST API endpoint.-->
-        <!--Take what you see here &amp; rip it apart to suit your needs. To improve it for everyone else, <a href="https://www.github.com/alexmacarthur/wp-vue">contribute on Github</a>.-->
-      <!--</p>-->
+      <h2>Explore Posts from the Selected WP Endpoint.</h2>
     </section>
 
     <ul>
