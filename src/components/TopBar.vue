@@ -6,7 +6,7 @@
         :to="{
           name: 'home',
         }">
-        WP Vue
+        WP Endpoint Vue App
       </router-link>
     </h1>
 
